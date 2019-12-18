@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "153982832932",
+    "firebase_url": "https://better-me-feb08.firebaseio.com",
+    "project_id": "better-me-feb08",
+    "storage_bucket": "better-me-feb08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153982832932:android:922798fd2637b640be23b1",
+        "android_client_info": {
+          "package_name": "com.palmcivetmenace.better_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153982832932-n7lk0t8it1tqitnuels3i83gfvn5q4dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.palmcivetmenace.better_me",
+            "certificate_hash": "592363c28e68c8f6fb951152b6631dbd738eb2cf"
+          }
+        },
+        {
+          "client_id": "153982832932-fejgsd49liuf0buh4ghsr6u934vhujv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPVUS5UaJq6hOd9pljFU_bb-3OBQf9ytE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153982832932-fejgsd49liuf0buh4ghsr6u934vhujv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
