@@ -43,7 +43,7 @@ Add the various things that you are working on.
 
 
 ## License 
-* see [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) file
+* see [LICENSE](https://github.com/PalmCivetMenace/better_me/blob/master/LICENSE) file
 
 
 #
