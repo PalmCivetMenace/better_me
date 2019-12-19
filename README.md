@@ -7,10 +7,7 @@ A Better way to learn
 
 2.Type in what you want to become
 
-## Table of contents
-
-
-
+## Team Abstact
 
 ### About Better Me
 This is an app users can use to find out the smartest way to reach ones job aspirations. Find out where you are good at and where to improve
@@ -41,25 +38,19 @@ Add the various things that you are working on.
 ### List of the Contributors on GitHub
 
 
-### Want to contribute?
-
-
+# Get The APP
+[Download BetterMe](https://github.com/PalmCivetMenace/better_me/blob/master/build/app/outputs/apk/app.apk)
 
 
 ## License 
 * see [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) file
 
 
-## Versions 
+#
 
 
 
 ## Contact information
 
 
-
-#### Developer
-
-
-### Summary
 
