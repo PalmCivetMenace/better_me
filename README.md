@@ -1,6 +1,6 @@
 # better_me
 
-A new Flutter project.
+A Better way to learn
 
 ## Getting Started
 1.Download the app and
@@ -15,7 +15,8 @@ A new Flutter project.
 ### About Better Me
 This is an app users can use to find out the smartest way to reach ones job aspirations. Find out where you are good at and where to improve
 
-
+### PROMO VIDEO
+https://youtu.be/q5FOyU0uToY 
 
 ## Permissions
 
