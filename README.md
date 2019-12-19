@@ -8,12 +8,7 @@
 <p align="center">
     <h4>App For personal growth and development<br></h4>
 </p>
-<p>
-   <h5>Darasa Student app is an attendance-recording app that helps students confirm their class attendance. 
-As a Student, you will also be able to plan your schedule and classes easily with darasa timetable. <br></h5>
 
-   <h5>Darasa Lecturer app essentially helps the Lecturer plan their semester well ahead of time. It provides swift and easy way of creating and managing classes. On top, it allows you to track attendance of students in each unit/class you teach.<br></h5>
-</p>
 # better_me
 
 A Better way to learn
@@ -59,8 +54,11 @@ Add the various things that you are working on.
 #### CONTRIBUTING
 
 ### List of the Contributors on GitHub
+[Pubuditha](https://github.com/PalmCivetMenace/)
 
+[Nuwan](https://github.com/ArcReactive/)
 
+[Chamath](https://github.com/ChamathDJ)
 # Get The APP
 [Download BetterMe](https://github.com/PalmCivetMenace/better_me/blob/master/build/app/outputs/apk/app.apk)
 
