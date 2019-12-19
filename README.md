@@ -3,7 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+1.Download the app and
 
+2.Type in what you want to become
 
 ## Table of contents
 
@@ -11,43 +13,27 @@ A new Flutter project.
 
 
 ### About Better Me
+This is an app users can use to find out the smartest way to reach ones job aspirations. Find out where you are good at and where to improve
 
-
-
-
-### GENERAL PREVIEW DARASA LECTURER
-
-
-
-### GENERAL PREVIEW
-
-
-#### App Store
-
-[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.job.darasastudent)
 
 
 ## Permissions
 
 1. Internet
-2. Network state
-3. Location 
+ 
 
 
 ## To Do List
 
 Add the various things that you are working on.  
-
-- [x] Adding scan animations to the Student scan screen
-- [x] Creating a Qr code
-- [ ] Updating the App to use AndroidX
-- [x] Updating theme to Material design components
-- [ ] Adding lecturer messaging to students
-- [ ] Adding notification screen in student app
-- [ ] Make web dashboard more reactive
+- [x] Design using Material Design
+- [x] Designing Database using MongoDb
+- [ ] Login System
+- [ ] Using data from the database instead of dummy data
+- [ ] Adding correct data to the database
 
 
-### Promo Video (Click for full video)
+
 
 #### CONTRIBUTING
 
@@ -55,6 +41,7 @@ Add the various things that you are working on.
 
 
 ### Want to contribute?
+
 
 
 
