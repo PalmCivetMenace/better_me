@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">153982832932-fejgsd49liuf0buh4ghsr6u934vhujv8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://better-me-feb08.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">153982832932</string>
+    <string name="google_api_key" translatable="false">AIzaSyBPVUS5UaJq6hOd9pljFU_bb-3OBQf9ytE</string>
+    <string name="google_app_id" translatable="false">1:153982832932:android:922798fd2637b640be23b1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBPVUS5UaJq6hOd9pljFU_bb-3OBQf9ytE</string>
+    <string name="google_storage_bucket" translatable="false">better-me-feb08.appspot.com</string>
+    <string name="project_id" translatable="false">better-me-feb08</string>
+</resources>

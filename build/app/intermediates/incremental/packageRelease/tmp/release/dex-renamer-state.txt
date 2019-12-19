@@ -1,0 +1,4 @@
+#Thu Dec 19 22:06:36 IST 2019
+base.0=/home/palmcivetmenace/Code/Flutter/better_me/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

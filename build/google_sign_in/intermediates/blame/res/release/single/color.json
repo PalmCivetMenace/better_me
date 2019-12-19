@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/palmcivetmenace/Code/Flutter/better_me/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/palmcivetmenace/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f9de55cb447f135fab39e850043a82c7/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/palmcivetmenace/Code/Flutter/better_me/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/palmcivetmenace/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f9de55cb447f135fab39e850043a82c7/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/palmcivetmenace/Code/Flutter/better_me/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/palmcivetmenace/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f9de55cb447f135fab39e850043a82c7/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

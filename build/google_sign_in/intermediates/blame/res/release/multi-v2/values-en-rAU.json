@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/palmcivetmenace/Code/Flutter/better_me/build/google_sign_in/intermediates/res/merged/release/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/home/palmcivetmenace/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4bcbd6a72b6833d6d7820960ac8a90a0/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/palmcivetmenace/Code/Flutter/better_me/build/google_sign_in/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/home/palmcivetmenace/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4bcbd6a72b6833d6d7820960ac8a90a0/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
