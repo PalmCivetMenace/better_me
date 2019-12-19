@@ -1,16 +1,65 @@
 # better_me
 
-A new Flutter project.
+A Better way to learn
 
 ## Getting Started
+1.Download the app and
 
-This project is a starting point for a Flutter application.
+2.Type in what you want to become
 
-A few resources to get you started if this is your first Flutter project:
+## Table of contents
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+### About Better Me
+This is an app users can use to find out the smartest way to reach ones job aspirations. Find out where you are good at and where to improve
+
+### PROMO VIDEO
+https://youtu.be/q5FOyU0uToY 
+
+## Permissions
+
+1. Internet
+ 
+
+
+## To Do List
+
+Add the various things that you are working on.  
+- [x] Design using Material Design
+- [x] Designing Database using MongoDb
+- [ ] Login System
+- [ ] Using data from the database instead of dummy data
+- [ ] Adding correct data to the database
+
+
+
+
+#### CONTRIBUTING
+
+### List of the Contributors on GitHub
+
+
+### Want to contribute?
+
+
+
+
+## License 
+* see [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) file
+
+
+## Versions 
+
+
+
+## Contact information
+
+
+
+#### Developer
+
+
+### Summary
+
